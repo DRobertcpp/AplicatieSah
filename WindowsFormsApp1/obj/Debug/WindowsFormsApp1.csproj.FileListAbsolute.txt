@@ -1,0 +1,40 @@
+D:\Poo\l17\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Poo\l17\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Poo\l17\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Poo\l17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Poo\l17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sah.resources
+D:\Poo\l17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Poo\l17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Poo\l17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Poo\l17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Poo\l17\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\acasa\source\repos\Aplicatie sah POO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\acasa\source\repos\Aplicatie sah POO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\acasa\source\repos\Aplicatie sah POO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\acasa\source\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\acasa\source\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sah.resources
+C:\Users\acasa\source\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\acasa\source\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\acasa\source\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\acasa\source\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\acasa\source\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\repos\Aplicatie sah POO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\repos\Aplicatie sah POO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\repos\Aplicatie sah POO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sah.resources
+E:\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\repos\Aplicatie sah POO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Robert\Desktop\Proiecte\Aplicatie sah POO.c#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Robert\Desktop\Proiecte\Aplicatie sah POO.c#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Robert\Desktop\Proiecte\Aplicatie sah POO.c#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Robert\Desktop\Proiecte\Aplicatie sah POO.c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Robert\Desktop\Proiecte\Aplicatie sah POO.c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sah.resources
+C:\Users\Robert\Desktop\Proiecte\Aplicatie sah POO.c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Robert\Desktop\Proiecte\Aplicatie sah POO.c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Robert\Desktop\Proiecte\Aplicatie sah POO.c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Proiecte\Aplicatie sah POO.c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Robert\Desktop\Proiecte\Aplicatie sah POO.c#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
